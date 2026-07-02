@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/harshkr0011/java-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/harshkr0011/java-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0162-find-peak-element](https://github.com/harshkr0011/java-practice/tree/main/0162-find-peak-element/) | Medium |
+| [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Binary Search
@@ -84,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
