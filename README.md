@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/harshkr0011/java-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshkr0011/java-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/harshkr0011/java-practice/tree/main/0541-reverse-string-ii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
