@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/harshkr0011/java-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/harshkr0011/java-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/harshkr0011/java-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshkr0011/java-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/harshkr0011/java-practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Math
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
+| [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
