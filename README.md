@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/harshkr0011/java-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0338-counting-bits](https://github.com/harshkr0011/java-practice/tree/main/0338-counting-bits/) | Easy |
+| [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
+| [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
