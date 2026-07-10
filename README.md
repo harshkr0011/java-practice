@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
+| [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
 | [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/harshkr0011/java-practice/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
+| [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -140,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
