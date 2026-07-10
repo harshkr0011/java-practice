@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
+| [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/harshkr0011/java-practice/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/harshkr0011/java-practice/tree/main/0134-gas-station/) | Medium |
+| [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Stack
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
+| [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -133,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
