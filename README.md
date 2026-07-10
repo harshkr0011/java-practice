@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
 | [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/harshkr0011/java-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -84,11 +85,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/harshkr0011/java-practice/tree/main/0134-gas-station/) | Medium |
 | [0561-array-partition](https://github.com/harshkr0011/java-practice/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/harshkr0011/java-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/harshkr0011/java-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
 | [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
 ## Monotonic Stack
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/harshkr0011/java-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/harshkr0011/java-practice/tree/main/0541-reverse-string-ii/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/harshkr0011/java-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
