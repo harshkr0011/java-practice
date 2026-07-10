@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/harshkr0011/java-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
+| [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
+| [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
+| [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
