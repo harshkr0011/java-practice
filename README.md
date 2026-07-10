@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
+| [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/harshkr0011/java-practice/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/harshkr0011/java-practice/tree/main/0134-gas-station/) | Medium |
+| [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
