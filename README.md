@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
