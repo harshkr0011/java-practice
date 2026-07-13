@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
