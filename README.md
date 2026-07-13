@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -150,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
