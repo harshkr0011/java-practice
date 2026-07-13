@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/harshkr0011/java-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/harshkr0011/java-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
