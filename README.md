@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/harshkr0011/java-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
+| [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/harshkr0011/java-practice/tree/main/0413-arithmetic-slices/) | Medium |
+| [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/harshkr0011/java-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Recursion
@@ -167,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harshkr0011/java-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
 <!---LeetCode Topics End-->
