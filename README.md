@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/harshkr0011/java-practice/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harshkr0011/java-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/harshkr0011/java-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
