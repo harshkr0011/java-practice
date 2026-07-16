@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/harshkr0011/java-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0087-scramble-string](https://github.com/harshkr0011/java-practice/tree/main/0087-scramble-string/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshkr0011/java-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/harshkr0011/java-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
