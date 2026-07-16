@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshkr0011/java-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/harshkr0011/java-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshkr0011/java-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harshkr0011/java-practice/tree/main/0771-jewels-and-stones/) | Easy |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harshkr0011/java-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
