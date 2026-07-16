@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/harshkr0011/java-practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshkr0011/java-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0148-sort-list](https://github.com/harshkr0011/java-practice/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
