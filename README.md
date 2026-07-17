@@ -200,4 +200,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/harshkr0011/java-practice/tree/main/0148-sort-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
