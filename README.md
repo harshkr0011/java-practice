@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/harshkr0011/java-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/harshkr0011/java-practice/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/harshkr0011/java-practice/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/harshkr0011/java-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshkr0011/java-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/harshkr0011/java-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
+| [0877-stone-game](https://github.com/harshkr0011/java-practice/tree/main/0877-stone-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
+| [0877-stone-game](https://github.com/harshkr0011/java-practice/tree/main/0877-stone-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshkr0011/java-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Memoization
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshkr0011/java-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/harshkr0011/java-practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
