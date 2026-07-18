@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harshkr0011/java-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/harshkr0011/java-practice/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshkr0011/java-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshkr0011/java-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/harshkr0011/java-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0837-new-21-game](https://github.com/harshkr0011/java-practice/tree/main/0837-new-21-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/harshkr0011/java-practice/tree/main/1006-clumsy-factorial/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshkr0011/java-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshkr0011/java-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
