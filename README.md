@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harshkr0011/java-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/harshkr0011/java-practice/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/harshkr0011/java-practice/tree/main/0120-triangle/) | Medium |
 | [0134-gas-station](https://github.com/harshkr0011/java-practice/tree/main/0134-gas-station/) | Medium |
 | [0162-find-peak-element](https://github.com/harshkr0011/java-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/harshkr0011/java-practice/tree/main/0198-house-robber/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0087-scramble-string](https://github.com/harshkr0011/java-practice/tree/main/0087-scramble-string/) | Hard |
 | [0118-pascals-triangle](https://github.com/harshkr0011/java-practice/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/harshkr0011/java-practice/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/harshkr0011/java-practice/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/harshkr0011/java-practice/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
