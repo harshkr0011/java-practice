@@ -216,23 +216,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/harshkr0011/java-practice/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
