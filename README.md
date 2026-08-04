@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/harshkr0011/java-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/harshkr0011/java-practice/tree/main/0120-triangle/) | Medium |
 | [0134-gas-station](https://github.com/harshkr0011/java-practice/tree/main/0134-gas-station/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/harshkr0011/java-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/harshkr0011/java-practice/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harshkr0011/java-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/harshkr0011/java-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
