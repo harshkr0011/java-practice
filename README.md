@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/harshkr0011/java-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0065-valid-number](https://github.com/harshkr0011/java-practice/tree/main/0065-valid-number/) | Hard |
 | [0087-scramble-string](https://github.com/harshkr0011/java-practice/tree/main/0087-scramble-string/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshkr0011/java-practice/tree/main/0125-valid-palindrome/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
