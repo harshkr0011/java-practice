@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/harshkr0011/java-practice/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/harshkr0011/java-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/harshkr0011/java-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/harshkr0011/java-practice/tree/main/0055-jump-game/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/harshkr0011/java-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshkr0011/java-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harshkr0011/java-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
+| [0036-valid-sudoku](https://github.com/harshkr0011/java-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
