@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshkr0011/java-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/harshkr0011/java-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/harshkr0011/java-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/harshkr0011/java-practice/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshkr0011/java-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/harshkr0011/java-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/harshkr0011/java-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0065-valid-number](https://github.com/harshkr0011/java-practice/tree/main/0065-valid-number/) | Hard |
 | [0087-scramble-string](https://github.com/harshkr0011/java-practice/tree/main/0087-scramble-string/) | Hard |
 | [0097-interleaving-string](https://github.com/harshkr0011/java-practice/tree/main/0097-interleaving-string/) | Medium |
@@ -277,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshkr0011/java-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshkr0011/java-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
