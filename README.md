@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/harshkr0011/java-practice/tree/main/0029-divide-two-integers/) | Medium |
+| [0089-gray-code](https://github.com/harshkr0011/java-practice/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshkr0011/java-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/harshkr0011/java-practice/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/harshkr0011/java-practice/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/harshkr0011/java-practice/tree/main/0343-integer-break/) | Medium |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/harshkr0011/java-practice/tree/main/0089-gray-code/) | Medium |
 | [0494-target-sum](https://github.com/harshkr0011/java-practice/tree/main/0494-target-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
