@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshkr0011/java-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshkr0011/java-practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshkr0011/java-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshkr0011/java-practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshkr0011/java-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/harshkr0011/java-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0112-path-sum/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshkr0011/java-practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshkr0011/java-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshkr0011/java-practice/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Design
 | Problem Name | Difficulty |
