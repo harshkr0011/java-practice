@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/harshkr0011/java-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/harshkr0011/java-practice/tree/main/0029-divide-two-integers/) | Medium |
+| [0050-powx-n](https://github.com/harshkr0011/java-practice/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/harshkr0011/java-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/harshkr0011/java-practice/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshkr0011/java-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/harshkr0011/java-practice/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harshkr0011/java-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/harshkr0011/java-practice/tree/main/0231-power-of-two/) | Easy |
 ## Counting Sort
