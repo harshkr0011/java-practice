@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/harshkr0011/java-practice/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/harshkr0011/java-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harshkr0011/java-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/harshkr0011/java-practice/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/harshkr0011/java-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/harshkr0011/java-practice/tree/main/0120-triangle/) | Medium |
 | [0134-gas-station](https://github.com/harshkr0011/java-practice/tree/main/0134-gas-station/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/harshkr0011/java-practice/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshkr0011/java-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/harshkr0011/java-practice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshkr0011/java-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/harshkr0011/java-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/harshkr0011/java-practice/tree/main/0148-sort-list/) | Medium |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/harshkr0011/java-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/harshkr0011/java-practice/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/harshkr0011/java-practice/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/harshkr0011/java-practice/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshkr0011/java-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harshkr0011/java-practice/tree/main/0268-missing-number/) | Easy |
@@ -292,4 +295,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/harshkr0011/java-practice/tree/main/0014-longest-common-prefix/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/harshkr0011/java-practice/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/harshkr0011/java-practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
