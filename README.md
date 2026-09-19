@@ -303,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/harshkr0011/java-practice/tree/main/0075-sort-colors/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/harshkr0011/java-practice/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
